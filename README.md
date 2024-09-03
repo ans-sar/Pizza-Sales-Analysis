@@ -16,5 +16,5 @@ The primary objectives of this analysis were to:
 - **Database**: MySQL
 - **Language**: SQL
 - **Documentation**: Microsoft Word
-- ** Charts and graphs**:MS Excel
-  ## Thnk You for Your time to Vist My Repository and taking a look on my project.
+- **Charts and graphs**:MS Excel
+  ## Thank You for Your time to Vist My Repository and taking a look on my project.
